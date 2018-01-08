@@ -1,8 +1,7 @@
-hump - Helper Utilities for Massive Progression
+humpvr - Helper Utilities for Massive Progression in Virtual Reality
 ===============================================
 
-**hump** is a small collection of tools for developing games with L&Ouml;VE.
-[![Build Status](https://travis-ci.org/vrld/hump.svg?branch=master)](https://travis-ci.org/vrld/hump)
+**humpvr** is a small collection of tools for developing games with L&Ouml;VR.
 
 Contents:
 ------------
@@ -18,7 +17,7 @@ Contents:
 Documentation
 =============
 
-You can find the documentation here: [hump.readthedocs.org](http://hump.readthedocs.org)
+You can find the (hump, not VR) documentation here (it should work the same way): [hump.readthedocs.org](http://hump.readthedocs.org)
 
 
 License
